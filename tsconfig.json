@@ -10,11 +10,15 @@
     ],
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
   },
   "ts-node": {
     "compilerOptions": {
       "module": "commonJS"
     }
-  }
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
 }
