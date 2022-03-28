@@ -2,4 +2,5 @@
 Format for learning threejs and typescript.
 
 ## test
-コード変更テスト
+コード変更テスト  
+さらにテキスト追加。
